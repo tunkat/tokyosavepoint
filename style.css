@@ -1,0 +1,10 @@
+body{
+  background-color: white;
+}
+
+.mytext{
+  width: 80vw;
+  text-align: center;
+  font-size: 88px
+  color: white;
+}
